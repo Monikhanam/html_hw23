@@ -1,0 +1,110 @@
+
+.color{
+	color: blue;
+	font-size: 17px;
+	border: 5px dotted black;
+}
+
+h1{
+	color: blue;
+}
+.box{
+	border: 5px solid blue;
+}
+.password, .rpassword{
+	width: 26%;
+}
+table{
+	width: 100%;
+	border: 2px solid black;
+}
+th,td{
+	text-align: center;
+	border: 2px solid black
+}
+h2,h3{
+	text-align: center;
+	color: blue;
+}
+.header{
+	min-height: 100px;
+	background-color: green;
+	width: 100%;
+}
+.wrapper{
+	overflow: hidden;
+	
+
+}
+.name{
+	min-height: 150px;
+	background-color: red;
+	width: 50%;
+	float: left;
+
+}
+.address{
+	min-height: 150px;
+	background-color: blue;
+	width: 50%;
+	float: right;
+
+}
+.container{
+	overflow: hidden;	
+}
+.box1{
+	min-height: 100px;
+	background-color: teal;
+	width: 33.33%;
+	float: left;
+
+}
+.box2{
+	min-height: 100px;
+	background-color: yellow;
+	width: 33.33%;
+	float: left;
+}
+.box3{
+	min-height: 100px;
+	background-color: purple;
+	width: 33.33%;
+	float: left;
+}
+.container2{
+	overflow: hidden;
+	
+}
+.color1{
+	min-height: 100px;
+	background-color: grey;
+	width: 25%;
+	float: left;
+
+}
+.color2{
+	min-height: 100px;
+	background-color: brown;
+	width: 25%;
+	float: left;
+
+}
+.color3{
+	min-height: 100px;
+	background-color: magenta;
+	width: 25%;
+	float: left;
+
+}
+.color4{
+	min-height: 100px;
+	background-color: green;
+	width: 25%;
+	float: left;
+
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
